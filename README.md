@@ -1,2 +1,2 @@
 # IT FIRM
- IT frim website
+ IT firm website
